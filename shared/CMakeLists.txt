@@ -9,4 +9,6 @@ add_library(shared STATIC
   profiling.cpp
   analysis.hpp
   analysis.cpp
+  sorting.hpp
+  sorting.cpp
 )

@@ -36,7 +36,7 @@ void sort_column(BitTableView& bit_table_view, int column) {
 
 }
 
-void sort_topologically(BitTableView& bit_table_view) {
+void sort_lexicographically(BitTableView& bit_table_view) {
 
   for (int col = bit_table_view.num_cols - 1; col >= 0; --col) {
     sort_column(bit_table_view, col);

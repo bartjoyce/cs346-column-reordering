@@ -1,6 +1,4 @@
 add_executable(reorder
-  sorting.hpp
-  sorting.cpp
   main.cpp
 )
 

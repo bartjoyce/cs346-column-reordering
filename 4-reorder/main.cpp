@@ -1,6 +1,6 @@
 #include "../shared/bit_files.hpp"
 #include "../shared/analysis.hpp"
-#include "sorting.hpp"
+#include "../shared/sorting.hpp"
 #include <time.h>
 #include <algorithm>
 
